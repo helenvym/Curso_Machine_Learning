@@ -21,6 +21,7 @@ Día 1
       Generar secuencias de números
         Bucles anidados
         Ejercicio: Imprimir los 100 primeros números de Fibonacci
+        
 Día 2 
 Ejercicios de SpaceX
 - Ejercicio Data Collection:
