@@ -21,3 +21,12 @@ Día 1
       Generar secuencias de números
         Bucles anidados
         Ejercicio: Imprimir los 100 primeros números de Fibonacci
+Día 2: Ejercicios de SpaceX
+- Ejercicio Data Collection:
+    Obtén los datos mediante peticiones GET y crea un dataframe
+    Filtra el dataframe para que sólo incluya los lanzamientos de falcon 9
+    Ajustes finales
+- Ejercicio EDA Using SQL:
+    Subir los datos a la base de datos
+    Queries con SQL (1-10)
+  
