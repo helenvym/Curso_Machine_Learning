@@ -31,4 +31,9 @@ Ejercicios de SpaceX
 - Ejercicio EDA Using SQL:
     Subir los datos a la base de datos
     Queries con SQL (1-10)
-  
+
+Día 3 
+- Ejercicio Prophet: predecir el valor de Activision Blizzard, Inc. (ATVI)
+- Ejercicio Folium
+- Ejercicio de Introducción a Machine Learning con Scikit-Learn
+
